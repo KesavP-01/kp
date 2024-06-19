@@ -38,8 +38,8 @@ audio:not([controls]) {
 }
 
 .menu-button.w-nav-button {
-    max-width: 10%;
-    max-height: auto;
+    max-width: 13.5%;
+    max-height: 11%;
 }
 
 [hidden],
